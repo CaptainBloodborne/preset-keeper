@@ -8,6 +8,7 @@ packages = [{include = "preset_keeper"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+aiohttp = "^3.8.4"
 
 
 [build-system]
